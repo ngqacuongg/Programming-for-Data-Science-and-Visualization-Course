@@ -1,2 +1,3 @@
 # Programming for Data Science and Visualization Course
  
+The Programming for Data Science and Visualization course aims at providing students with a set of skills to analyze the nature of data across different domains. The course demonstrates data visualization by understanding, questioning, and problematizing how data are generated, analyzed, and used. The students will be able to apply concepts and skills to visualize data, interpret the findings, and examine the impacts of data-driven decision. The course will also get the students familiar with Python programming language and its libraries to analyze, visualize and discover data insight leading to a proper data-driven decision-making process.
